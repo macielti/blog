@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bruno do Nascimento Maciel's blog</title>
+  <link href="https://github.com/borkdude/quickblog/atom.xml" rel="self"/>
+  <link href="https://github.com/borkdude/quickblog"/>
+  <updated>2024-09-30T01:34:21+00:00</updated>
+  <id>https://github.com/borkdude/quickblog</id>
+  <author>
+    <name>Quick Blogger</name>
+  </author>
+  <entry>
+    <id>https://github.com/borkdude/quickblog/test.html</id>
+    <link href="https://github.com/borkdude/quickblog/test.html"/>
+    <title>Test</title>
+    <updated>2024-09-29T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<p>Write a blog post here!</p>]]></content>
+  </entry>
+</feed>

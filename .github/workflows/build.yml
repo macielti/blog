@@ -1,0 +1,22 @@
+name: Clojure CI - Build Blog
+
+on: [ pull_request ]
+
+jobs:
+
+  build-blog:
+    name: Build Blog
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate Blog Files
+        run: bb quickblog render
+
+      - name: Commit Rendered Blog Files
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: 'Render blog files'
+          author_name: GitHub Actions
+          author_email: actions@github.com

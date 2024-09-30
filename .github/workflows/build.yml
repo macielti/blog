@@ -19,7 +19,7 @@ jobs:
           echo >> /home/runner/.bashrc
           echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> /home/runner/.bashrc
           eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
-          apt-get install build-essential
+          sudo apt-get install build-essential -y
           brew install gcc
           brew install borkdude/brew/babashka
           bb quickblog render

@@ -16,6 +16,11 @@ jobs:
       - name: Generate Blog Files
         run: |
           /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+          echo >> /home/runner/.bashrc
+          echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> /home/runner/.bashrc
+          eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+          apt-get install build-essential
+          brew install gcc
           brew install borkdude/brew/babashka
           bb quickblog render
 

@@ -4,6 +4,6 @@
  :tasks
  {:requires ([quickblog.cli :as cli])
   :init     (def opts {:blog-title       "Bruno do Nascimento Maciel's blog"
-                       :blog-description "A blog about Clojure, programming, and other stuff"})
+                       :blog-description "A blog about Software Engineering and other stuff not related to programming"})
   quickblog {:doc  "Start blogging quickly! Run `bb quickblog help` for details."
              :task (cli/dispatch opts)}}}

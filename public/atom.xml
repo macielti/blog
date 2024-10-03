@@ -3,17 +3,17 @@
   <title>Bruno Nascimento's blog</title>
   <link href="https://github.com/borkdude/quickblog/atom.xml" rel="self"/>
   <link href="https://github.com/borkdude/quickblog"/>
-  <updated>2024-10-03T08:10:36+00:00</updated>
+  <updated>2024-10-03T08:16:15+00:00</updated>
   <id>https://github.com/borkdude/quickblog</id>
   <author>
     <name>Quick Blogger</name>
   </author>
   <entry>
-    <id>https://github.com/borkdude/quickblog/test.html</id>
-    <link href="https://github.com/borkdude/quickblog/test.html"/>
+    <id>https://github.com/borkdude/quickblog/soletrando.html</id>
+    <link href="https://github.com/borkdude/quickblog/soletrando.html"/>
     <title>Software para Auxílio na Execução de Competições de Soletração</title>
     <updated>2024-10-03T23:59:59+00:00</updated>
-    <content type="html"><![CDATA[<p>Programa para apresentação de competições de soletrando. Com correção automática das palavaras e exibição das letras faladas em tempo real. Ideal para enrriquecer as ações e eventos educativos da sua escola.</p><p>O programa conta com duas janelas, a janela de cima deve ser arrastada para o projetor de modo que fique maximizada e visivel para os competidores e espectadores. A segunda janela a de baixo, "Terminal do Mesário", deve ficar na tela do notebook ou computador, de modo que fique visível apenas aos jurados ou organizadores da competição.</p>]]></content>
+    <content type="html"><![CDATA[<p>Programa para apresentação de competições de soletrando. Com correção automática das palavaras e exibição das letras faladas em tempo real. Ideal para enrriquecer as ações e eventos educativos da sua escola.</p><p>O programa conta com duas janelas, a janela de cima deve ser arrastada para o projetor de modo que fique maximizada e visivel para os competidores e espectadores. A segunda janela a de baixo, "Terminal do Mesário", deve ficar na tela do notebook ou computador, de modo que fique visível apenas aos jurados ou organizadores da competição.</p><p><img src="images/soletrando-terminal.png" alt="Soletrando" /></p><p><img src="images/soletrando-terminal-mesario.png" alt="Terminal mesário soletrando" /></p><p>Caso de Uso: Campeonato de Soletração organizado pela Unidade Escolar Fausto Lustosa em 24 de setembro de 2018. Para o qual, desenvolveu-se um programa para auxílio na exibição e correção das palavras.</p>]]></content>
   </entry>
   <entry>
     <id>https://github.com/borkdude/quickblog/hello.html</id>

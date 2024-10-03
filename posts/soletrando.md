@@ -19,4 +19,4 @@ desenvolveu-se um programa para auxílio na exibição e correção das palavras
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NJcUvxHCg1U?si=---R5vPZwoYiUCIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Link Para Download do Software](https://github.com/macielti/soletrando/actions/runs/11136165680/artifacts/2003800496)
+[💾Link Para Download do Software](https://github.com/macielti/soletrando/actions/runs/11136165680/artifacts/2003800496)

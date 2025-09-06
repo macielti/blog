@@ -10,7 +10,7 @@ vencimento), nesse caso, o ativo é devolvido para a corretora que acaba repassa
 > Quando um cliente vende o seu título antes do vencimento, a XP coloca à disposição para outros investidores. Isso quer
 > dizer que poucas quantidades são disponibilizadas, pois é um ativo que partiu de outro cliente.
 >
->O **mercado secundário** é bem limitado, pode ocorrer da oferta não atender a demanda, o que pode fazer com que essas
+> O **mercado secundário** é bem limitado, pode ocorrer da oferta não atender a demanda, o que pode fazer com que essas
 > cotas se encerrem em segundos.
 >
 > \- [XP Investimentos. O que é mercado secundário?](https://atendimento.xpi.com.br/artigo/2062-o-que-e-mercado-secundario)

@@ -4,7 +4,7 @@ Tags: mercado-secundário, renda-fixa, investimento
 
 ### Mercado Secundário de CDBs
 
-Títulos de CDB chegam no mercado secundário quando um investidor quer se desfazer do investimento antes do prazo de
+Os títulos vão para o mercado secundário quando um cliente quer vender antecipadamente antes do prazo de
 vencimento, nesse caso, o ativo é devolvido para a corretora que acaba repassando para outro cliente.
 
 > Quando um cliente vende o seu título antes do vencimento, a XP coloca à disposição para outros investidores. Isso quer

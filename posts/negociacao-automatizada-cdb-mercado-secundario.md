@@ -1,6 +1,6 @@
 Title: Experimentos com negociação automatizada de CDBs no mercado secundário
 Date: 2025-09-14
-Tags: mercado-secundário, renda-fixa, investimento
+Tags: mercado-secundário, renda-fixa, investimento, automação
 
 Nos últimos meses venho usando o meu tempo livre para trabalhar num projeto pessoal visando proporcionar vantagem
 competitiva na disputa por títulos de CDB (Certificado de Depósito Bancário) no mercado secundário.

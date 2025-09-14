@@ -9,7 +9,7 @@ No mercado secundário são disponibilizados [ativos com rendimento acima da mé
 no mercado primário. Mas como se tratam de ativos negociados entre clientes, pode ocorrer da oferta não atender a
 demanda, o que pode fazer com que essas cotas se encerrem em segundos.
 
-A requisito principal para conseguir acesso as melhores oportunidades é ser mais rápido que todos os outros clientes,
+O principal requisito para conseguir acesso as melhores oportunidades é ser mais rápido que todos os outros clientes,
 tanto na tomada de decisão sobre qual título comprar, como também na execução da operação de compra do ativo. Colocando
 um robô nessas duas etapas conseguimos vencer qualquer humano no quesito velocidade.
 

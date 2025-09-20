@@ -3,11 +3,18 @@
   <title>Bruno Nascimento's blog</title>
   <link href="https://github.com/borkdude/quickblog/atom.xml" rel="self"/>
   <link href="https://github.com/borkdude/quickblog"/>
-  <updated>2025-09-14T21:30:08+00:00</updated>
+  <updated>2025-09-20T00:47:35+00:00</updated>
   <id>https://github.com/borkdude/quickblog</id>
   <author>
     <name>Quick Blogger</name>
   </author>
+  <entry>
+    <id>https://github.com/borkdude/quickblog/reflexao-imprecisao-relogios-digitais.html</id>
+    <link href="https://github.com/borkdude/quickblog/reflexao-imprecisao-relogios-digitais.html"/>
+    <title>Reflexões sobre a imprecisão de relógios digitais</title>
+    <updated>2025-09-19T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<p>Relógios digitais não são 100% precisos, a maioria dos modelos mais simples da Casio atrasa em média 1 minuto por ano. Esse é o caso do modelo Casio A178W, possuo o mesmo desde o final de 2022 e se encontra 3 minutos atrasados. Foi realizado um único ajuste desde a sua compra. Fazendo os cálculos tenho o relógio a aproximadamente 3 anos o que reflete a expectativa de atraso de 3 minutos (1 minuto por ano).</p><p>A imprecisão residual é insignificante no curto prazo, mas no longo prazo se acumula e se torna distinguível.</p><p>É muito provável que nunca irei ajustá-lo. Experimento um conforto incomum em observar a contradição entre o funcionamento esperado do relógio, contando o tempo de forma crescente e, por outro lado, no sentido contrário, implicitamente a passagem do tempo fazendo crescer a lacuna entre a tempo marcado no relógio e o tempo convencional, como se fosse um segundo vetor no sentido contrário, uma informação implicitamente armazenada em forma de atraso representando a idade do relógio.</p><p>A imprecisão residual é isoladamente insignificante e imperceptível, mas se acumula atrasando o relógio mais e mais a medida que o tempo passa.</p>]]></content>
+  </entry>
   <entry>
     <id>https://github.com/borkdude/quickblog/negociacao-automatizada-cdb-mercado-secundario.html</id>
     <link href="https://github.com/borkdude/quickblog/negociacao-automatizada-cdb-mercado-secundario.html"/>

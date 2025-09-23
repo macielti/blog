@@ -14,13 +14,13 @@ Tags: Investimento, Automação, LLM (Large Language Model
 Em abril de 2025 o presidente dos Estados Unidos anunciou que aplicaria taxas de importação de 10% para todos os países
 visando aquecer a indústria interna, esperando trazer fábricas para produção em território norte-americano.
 
-A reação do mercado após o anúncio se manifestou no formato de queda nos principais indices da bolsa de valores dos Estados Unidos
+A reação do mercado após o anúncio se manifestou em forma de queda nos principais indices da bolsa de valores dos Estados Unidos
 e também dos países com forte dependência da demanda por importação vindas do mercado norte-americano.
 
 Foi nesse cenário de incerteza, medo e desespero por parte de especuladores, que enxerguei uma ótima oportunidade para
 diversificar a alocação do meu patrimônio, que até o momento estava majoritariamente alocado no mercado brasileiro e norte-americano. Com a maioria dos indices de mercados afetados, uns mais que outros e, o rearranjo do cenário
 geopolítico plotando mudanças dado ao caminho natural dos países mais prejudicados a se alinharem com potências
-favoráveis ao multilateralismo (China). Decidi me expor a essa nova (em construção) configuração de mercado onde os
+favoráveis ao multilateralismo, como a China. Decidi me expor a essa nova (em construção) configuração de mercado onde os
 Estados Unidos perde protagonismo em favor da China.
 
 Mas como nenhum provável cenário é garantido, busquei me posicionar para diversificar a alocação dos meus
@@ -56,7 +56,7 @@ mundialmente visando estabilidade e crescimento no longo prazo e, visando princi
 5. **Outros Mercados Emergentes (Índia, Brasil, etc.)**: Aproximadamente 10% a 15% no total.
 6. **Outros Países Desenvolvidos (Canadá, Austrália, Coreia do Sul, etc.)**: Juntos, cerca de 5% a 10%.
 
-Em seguida pedi para que me desse sugestões de quais ETFs melhor representavam cada sugestão e essa foi a resposta:
+Em seguida pedi para que me desse sugestões de quais ETFs melhor representavam a resposta anterior. Tivemos o seguinte resultado:
 
 1. **Estados Unidos**:
     - **SPY (SPDR S&P 500 ETF)**: Rastreia o S&P 500, que cobre as maiores empresas americanas.
@@ -83,8 +83,7 @@ Limitei-me a escolher 1 ativo para cada um dos 6 mercados sugeridos.
 Nos meses seguintes fiz aportes buscando sempre equilibrar a carteira para seguir o percentual de alocação sugerido pela
 LLM.
 
-Até que chegamos ao mês de setembro com uma rentabilidade de 14% em 6 meses, isso é equivalente a um pouco mais de 2% de
-valorização por mês. E ainda recebemos $14,82 dólares em dividendos.
+Até que chegamos ao mês de setembro de 2025 com uma rentabilidade de 14% em 6 meses, isso é equivalente a um pouco mais de 2% por mês. E ainda recebemos $14,82 dólares em dividendos.
 
 Gráfico de rentabilidade da carteira nos últimos 6 meses:
 

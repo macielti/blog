@@ -1,6 +1,11 @@
 Title: Experimentos com a aplicação de LLMs no processo de montagem de uma carteira de investimento globalmente diversificada
 Date: 2025-09-22
-Tags: Investimento, Automação, LLM (Large Language Model)
+Tags: Investimento, Automação, LLM (Large Language Model
+
+## Isenção de responsabilidade
+
+> Não possuo nenhuma credencial de analista de investimento. O conteúdo dessa página não se trata de uma sugestão de
+  investimento.
 
 Em abril de 2025 o presidente dos Estados Unidos anunciou que aplicaria taxas de importação de 10% para todos os países
 para aquecer a indústria interna, trazendo fábricas para produção em território norte-americano.

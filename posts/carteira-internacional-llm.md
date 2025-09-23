@@ -3,11 +3,11 @@ Date: 2025-09-22
 Tags: Investimento, Automação, LLM (Large Language Model
 
 <div style="background-color:#fff3cd; color:#856404; padding:15px; border:1px solid #ffeeba; border-radius:5px; margin:10px 0;">
-   <h3> ⚠️ Isenção de responsabilidade </h3>
+  <h3> ⚠️ Isenção de responsabilidade </h3>
 
   <p>
     Não possuo nenhuma credencial de analista de investimento. O conteúdo dessa página não se trata de uma sugestão de
-    investimento. Não me responsabilizo pelas consequências de colocar o conteúdo dessa página em prática.
+    investimento. Não me responsabilizo pelas consequências de colocar o conteúdo a seguir em prática.
   </p>
 </div>
 

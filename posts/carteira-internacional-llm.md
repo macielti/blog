@@ -87,7 +87,17 @@ Gráfico de rentabilidade da carteira nos últimos 6 meses:
 
 <p style="text-align:center; margin:0;">
   <img
-    src="https://github.com/macielti/blog/blob/main/posts/images/rentabilidade.jpg?raw=true"
+    src="https://github.com/macielti/blog/blob/main/posts/images/negociacao-automatizada-cdb-mercado-secundario/rentabilidade.jpg?raw=true"
+    alt="Rentabilidade"
+    style="max-width:100%; height:auto; display:inline-block; border:1px solid #ddd; border-radius:6px;"
+  />
+</p>
+
+Carteira de Investimento com os ativos e as suas respectivas rentabilidades:
+
+<p style="text-align:center; margin:0;">
+  <img
+    src="https://github.com/macielti/blog/blob/main/posts/images/negociacao-automatizada-cdb-mercado-secundario/carteira.jpg?raw=true"
     alt="Rentabilidade"
     style="max-width:100%; height:auto; display:inline-block; border:1px solid #ddd; border-radius:6px;"
   />

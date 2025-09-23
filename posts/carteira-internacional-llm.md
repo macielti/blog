@@ -80,10 +80,10 @@ Limitei-me a escolher 1 ativo para cada um dos 6 mercados sugeridos.
 Nos meses seguintes fiz aportes buscando sempre equilibrar a carteira para seguir o percentual de alocação sugerido pela
 LLM.
 
-Até que chegamos ao mês de setembro com uma valorização de 14% em 6 meses, isso é equivalente a um pouco mais de 2% de
+Até que chegamos ao mês de setembro com uma rentabilidade de 14% em 6 meses, isso é equivalente a um pouco mais de 2% de
 valorização por mês. E ainda recebemos $14,82 dólares em dividendos.
 
-Gráfico mostrando a rentabilidade da carteira de 14% nos últimos 6 meses:
+Gráfico de rentabilidade da carteira nos últimos 6 meses:
 
 <p style="text-align:center; margin:0;">
   <img

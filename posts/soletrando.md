@@ -1,6 +1,6 @@
 Title: Software para Auxílio na Execução de Competições de Soletração
 Date: 2024-10-03
-Tags: projetos
+Tags: Projetos
 
 Programa para apresentação de competições de soletrando. Com correção automática das palavras e exibição das letras
 faladas em tempo real. Ideal para enriquecer as ações e eventos educativos da sua escola.
@@ -9,9 +9,21 @@ O programa conta com duas janelas, a janela de cima deve ser arrastada para o pr
 visivel para os competidores e espectadores. A segunda janela a de baixo, "Terminal do Mesário", deve ficar na tela do
 notebook ou computador, de modo que fique visível apenas aos jurados e organizadores da competição.
 
-![Soletrando](https://github.com/macielti/blog/blob/main/posts/images/soletrando-terminal.png?raw=true)
+<p style="text-align:center; margin:0;">
+  <img
+    src="https://github.com/macielti/blog/blob/main/posts/images/soletrando-terminal.png?raw=true"
+    alt="Soletrando"
+    style="max-width:100%; height:auto; display:inline-block; border:1px solid #ddd; border-radius:6px;"
+  />
+</p>
 
-![Terminal mesário soletrando](https://github.com/macielti/blog/blob/main/posts/images/soletrando-terminal-mesario.png?raw=true)
+<p style="text-align:center; margin:0;">
+  <img
+    src="https://github.com/macielti/blog/blob/main/posts/images/soletrando-terminal-mesario.png?raw=true"
+    alt="Terminal mesário soletrando"
+    style="max-width:100%; height:auto; display:inline-block; border:1px solid #ddd; border-radius:6px;"
+  />
+</p>
 
 Caso de Uso:
 Campeonato de Soletração organizado pela Unidade Escolar Fausto Lustosa em 24 de setembro de 2018. Para o qual,

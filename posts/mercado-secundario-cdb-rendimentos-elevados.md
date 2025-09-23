@@ -1,6 +1,6 @@
 Title: O que explica as taxas de rendimento elevadas oferecidas no mercado secundário?
 Date: 2025-09-10
-Tags: mercado-secundário, renda-fixa, investimento
+Tags: Mercado Secundário, Renda Fixa, Investimento
 
 ### Mercado Secundário de CDBs
 

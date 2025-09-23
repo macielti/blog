@@ -1,6 +1,6 @@
 Title: Reflexões sobre a imprecisão de relógios digitais
 Date: 2025-09-19
-Tags: reflexão
+Tags: Reflexão
 
 Relógios digitais não são 100% precisos. Como consta nos manuais dos modelos mais simples, é esperado um atraso de em
 média 1 minuto por ano. Esse é o caso do modelo Casio A178W, possuo o mesmo desde o final de 2022 e se encontra 3

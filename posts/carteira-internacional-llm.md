@@ -1,6 +1,6 @@
-Title: Experimentos com a aplicação de LLMs no processo de montagem de carteira de investimento
+Title: Experimentos com a aplicação de LLMs no processo de montagem de uma carteira de investimento globalmente diversificada
 Date: 2025-09-22
-Tags: clojure
+Tags: Investimento, Automação, LLM (Large Language Model)
 
 Em abril de 2025 o presidente dos Estados Unidos anunciou que aplicaria taxas de importação de 10% para todos os países
 para aquecer a indústria interna, trazendo fábricas para produção em território norte-americano.
@@ -80,6 +80,10 @@ valorização por mês. E ainda recebemos $14,82 dólares em dividendos.
 
 Gráfico mostrando a rentabilidade da carteira de 14% nos últimos 6 meses:
 
-<p align="center">
-  <img src="https://github.com/macielti/blog/blob/main/posts/images/rentabilidade.jpg?raw=true"/>
+<p style="text-align:center; margin:0;">
+  <img
+    src="https://github.com/macielti/blog/blob/main/posts/images/rentabilidade.jpg?raw=true"
+    alt="Rentabilidade"
+    style="max-width:100%; height:auto; display:inline-block; border:1px solid #ddd; border-radius:6px;"
+  />
 </p>

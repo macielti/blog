@@ -83,7 +83,7 @@ Limitei-me a escolher 1 ativo para cada um dos 6 mercados sugeridos.
 Nos meses seguintes fiz aportes buscando sempre equilibrar a carteira para seguir o percentual de alocação sugerido pela
 LLM.
 
-Até que chegamos ao mês de setembro de 2025 com uma rentabilidade de 14% em 6 meses, isso é equivalente a um pouco mais de 2% por mês. E ainda recebemos $14,82 dólares em dividendos.
+Até que chegamos ao mês de setembro de 2025 com uma rentabilidade de 14% em 6 meses, isso é equivalente a um pouco mais de 2% por mês (em dólar). E ainda recebemos $14,82 dólares em dividendos.
 
 Gráfico de rentabilidade da carteira nos últimos 6 meses:
 

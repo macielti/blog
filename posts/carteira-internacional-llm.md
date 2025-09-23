@@ -12,7 +12,7 @@ Tags: Investimento, Automação, LLM (Large Language Model
 </div>
 
 Em abril de 2025 o presidente dos Estados Unidos anunciou que aplicaria taxas de importação de 10% para todos os países
-para aquecer a indústria interna, trazendo fábricas para produção em território norte-americano.
+visando aquecer a indústria interna, esperando trazer fábricas para produção em território norte-americano.
 
 A reação do mercado após o anúncio se manifestou no formato de queda nos indices da bolsa de valores dos Estados Unidos
 e também dos países com forte dependência da demanda por importação vindas do mercado norte-americano.

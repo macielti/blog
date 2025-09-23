@@ -18,7 +18,7 @@ A reação do mercado após o anúncio se manifestou no formato de queda nos ind
 e também dos países com forte dependência da demanda por importação vindas do mercado norte-americano.
 
 Foi nesse cenário de incerteza, medo e desespero por parte de especuladores, que enxerguei uma ótima oportunidade para
-diversificar a alocação do meu patrimônio, que até o momento estava majoritariamente alocado no mercado do brasileiro e norte-americano. Com a maioria dos indices de mercados afetados, uns mais que outros e, o rearranjo do cenário
+diversificar a alocação do meu patrimônio, que até o momento estava majoritariamente alocado no mercado brasileiro e norte-americano. Com a maioria dos indices de mercados afetados, uns mais que outros e, o rearranjo do cenário
 geopolítico plotando mudanças dado ao caminho natural dos países mais prejudicados a se alinharem com potências
 favoráveis ao multilateralismo (China). Decidi me expor a essa nova (em construção) configuração de mercado onde os
 Estados Unidos perde protagonismo em favor da China.

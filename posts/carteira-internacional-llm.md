@@ -1,5 +1,5 @@
 Title: Experimentos com a aplicação de LLMs no processo de montagem de uma carteira de investimento globalmente diversificada
-Date: 2025-09-22
+Date: 2025-09-27
 Tags: Investimento, Automação, LLM (Large Language Model
 
 <div style="background-color:#fff3cd; color:#856404; padding:15px; border:1px solid #ffeeba; border-radius:5px; margin:10px 0;">

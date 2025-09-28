@@ -52,9 +52,17 @@ Para mensurar quanto tempo leva para que a concentração de CO2 atinga níveis 
 a janela, permaneci dentro do quarto atuando como uma fonte de CO2 durante a execução do experimento. Parei o cronometro
 e finalizei a coleta dos dados assim que atingimos uma concentração acima de 1400 ppm.
 
-<p style="text-align:center; margin:0;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eki5JNjadO4?si=G-N2NYMUv7QWZ4NJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; text-align: center; margin: 0 auto;">
+  <iframe 
+    src="https://www.youtube.com/embed/eki5JNjadO4?si=G-N2NYMUv7QWZ4NJ" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 Levou cerca de 40 minutos para o nível de concentração de CO2 ultrapassar o limite máximo aceitável de 1000 ppm. E levou
 1 hora e 25 minutos para atingir 1400 ppm. Como consequência da exposição a esse nível de concentração comecei a apresentar sintomas 

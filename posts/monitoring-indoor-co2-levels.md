@@ -68,4 +68,4 @@ Levou cerca de 40 minutos para o nível de concentração de CO2 ultrapassar o l
 1 hora e 25 minutos para atingir 1400 ppm. Como consequência da exposição a esse nível de concentração comecei a apresentar sintomas 
 semelhantes ao de uma crise de enxaqueca.
 
-Fique atento para a ventilação do espaço que você usa para trabalho ou estudo.
+Fique atento para a capacidade de ventilação do espaço que você usa para trabalhar ou estudar.

@@ -8,13 +8,13 @@ próximo. Para contornar essa dificuldade, trabalho com duas barreiras de conten
 um bom fone de ouvido com um excelente sistema de cancelamento de ruído ativo, a segunda barreira é a janela e porta do
 escritório completamente fechadas.
 
-Um dos principais produtos do processo de respiração do ser humano é o CO2. Um ambiente fechado com pessoas
-respirando dentro, não consegue proporcionar uma boa taxa de renovação do ar o que tem como concequência uma
-concentração de CO2 no ambiente que só aumenta com o passar do tempo.
+Um dos principais produtos do processo de respiração do ser humano é o CO2. Um ambiente fechado (mal ventilado) com pessoas
+respirando dentro, não consegue proporcionar uma boa taxa de renovação do ar o que tem como resultado o crescimento paulatino 
+do nível de concentração de CO2 no ambiente a medida que o tempo passa.
 
 Segundo recomendações da Anvisa a concentração aceitável de CO2 no ambiente interno contempla o intervalo entre 400 e
 1.000 ppm (partes por milhão). Níveis de concentração acima do recomendado tem como uma das suas
-consequências:
+consequências a deterioração da função cognitiva.
 
 > O excesso de CO2 pode ter impactos negativos na função cognitiva, incluindo a memória, a concentração e a tomada de
 > decisões. Isso ocorre porque o CO2 pode reduzir o fluxo sanguíneo para o cérebro, prejudicando a oxigenação e o
@@ -23,7 +23,7 @@ consequências:
 > [Engepred - Excesso de CO2 no ar traz riscos à saúde e aos negócios](https://engepred.com.br/noticias/engepred/excesso-de-co2-no-ar-traz-riscos-a-saude-e-aos-negocios/)
 
 Adquiri um dispositivo com o objetivo de monitorar a concentração de CO2 no ambiente utilizado para performar minhas
-atividades laborais (meu quarto), e reduzir o impacto negativo da longa exposição a altos níveis de concentração de CO2
+atividades laborais, e reduzir o impacto negativo da longa exposição a altos níveis de concentração de CO2
 no ambiente. Trata-se do [IAM-O2 da marca INKBIRD](https://www.amazon.com.br/dp/B0F2HSYB75).
 
 <p style="text-align:center; margin:0;">
@@ -46,7 +46,7 @@ Dimensões do cômodo:
   />
 </p>
 
-As medições normais da concentração de CO2 com janela e porta abertas gira em torno de 460 a 600 ppm.
+As medições normais da concentração de CO2 com janela e porta abertas giram em torno de 460 a 600 ppm.
 
 Para mensurar quanto tempo leva para que a concentração de CO2 atinga níveis nocivos, fechei a porta do cômodo e também
 a janela, permaneci dentro do quarto atuando como uma fonte de CO2 durante a execução do experimento. Parei o cronometro

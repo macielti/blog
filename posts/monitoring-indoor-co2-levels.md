@@ -1,5 +1,5 @@
 Title: Importância do Monitoramento do Nível de Concentração de Dióxido de Carbono (CO2) em Ambientes Fechados - Home Office Edition
-Date: 2025-09-28
+Date: 2025-10-04
 Tags: Home Office, Experimento, Produtividade
 
 O principal desafio enquanto trabalhando de home office é lidar com o barulho externo da cidade, carros buzinando,

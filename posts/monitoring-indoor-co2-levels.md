@@ -30,7 +30,7 @@ no ambiente. Trata-se do [IAM-O2 da marca INKBIRD](https://www.amazon.com.br/dp/
   <img
     src="https://github.com/macielti/blog/blob/main/posts/images/monitoring-indoor-co2-levels/IAM-O2.jpg?raw=true"
     alt="Rentabilidade"
-    style="max-width:100%; height:auto; display:inline-block; border:1px solid #ddd; border-radius:6px;"
+    style="max-width:600px; width:100%; height:auto; display:inline-block; border:1px solid #ddd; border-radius:6px;"
   />
 </p>
 

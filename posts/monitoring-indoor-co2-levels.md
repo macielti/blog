@@ -24,7 +24,7 @@ consequências a deterioração da função cognitiva.
 
 Adquiri um dispositivo com o objetivo de monitorar a concentração de CO2 no ambiente utilizado para performar minhas
 atividades laborais, e reduzir o impacto negativo da longa exposição a altos níveis de concentração de CO2
-no ambiente. Trata-se do [IAM-O2 da marca INKBIRD](https://www.amazon.com.br/dp/B0F2HSYB75).
+no ambiente. Trata-se do [IAM-O2 da marca INKBIRD](https://amzn.to/4mScyHl).
 
 <p style="text-align:center; margin:0;">
   <img

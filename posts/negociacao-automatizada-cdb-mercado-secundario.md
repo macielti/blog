@@ -5,7 +5,7 @@ Tags: Mercado Secundário, Renda Fixa, Investimento, Automação
 Nos últimos meses venho usando o meu tempo livre para trabalhar num projeto pessoal visando proporcionar vantagem
 competitiva na disputa por títulos de CDB (Certificado de Depósito Bancário) no mercado secundário.
 
-No mercado secundário são disponibilizados [ativos com rendimento acima da média](./mercado-secundario-cdb-rendimentos-elevados.html) quando comparado com o que é oferecido
+No mercado secundário são disponibilizados <a href="./mercado-secundario-cdb-rendimentos-elevados.html" target="_blank"> ativos com rendimento acima da média </a> quando comparado com o que é oferecido
 no mercado primário. Mas como se tratam de ativos negociados entre clientes, pode ocorrer da oferta não atender a
 demanda, o que pode fazer com que essas cotas se encerrem em segundos.
 

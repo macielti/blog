@@ -8,8 +8,10 @@ próximo. Para contornar essa dificuldade, trabalho com duas barreiras de conten
 um bom fone de ouvido com um excelente sistema de cancelamento de ruído ativo, a segunda barreira é a janela e porta do
 escritório completamente fechadas.
 
-Um dos principais produtos do processo de respiração do ser humano é o CO2. Um ambiente fechado (mal ventilado) com pessoas
-respirando dentro, não consegue proporcionar uma boa taxa de renovação do ar o que tem como resultado o crescimento paulatino 
+Um dos principais produtos do processo de respiração do ser humano é o CO2. Um ambiente fechado (mal ventilado) com
+pessoas
+respirando dentro, não consegue proporcionar uma boa taxa de renovação do ar o que tem como resultado o crescimento
+paulatino
 do nível de concentração de CO2 no ambiente a medida que o tempo passa.
 
 Segundo recomendações da Anvisa a concentração aceitável de CO2 no ambiente interno contempla o intervalo entre 400 e
@@ -20,11 +22,11 @@ consequências a deterioração da função cognitiva.
 > decisões. Isso ocorre porque o CO2 pode reduzir o fluxo sanguíneo para o cérebro, prejudicando a oxigenação e o
 > metabolismo cerebral.
 >
-> [Engepred - Excesso de CO2 no ar traz riscos à saúde e aos negócios](https://engepred.com.br/noticias/engepred/excesso-de-co2-no-ar-traz-riscos-a-saude-e-aos-negocios/)
+> \- <a href="https://engepred.com.br/noticias/engepred/excesso-de-co2-no-ar-traz-riscos-a-saude-e-aos-negocios/" target="_blank"> Engepred - Excesso de CO2 no ar traz riscos à saúde e aos negócios </a>
 
 Adquiri um dispositivo com o objetivo de monitorar a concentração de CO2 no ambiente utilizado para performar minhas
 atividades laborais, e reduzir o impacto negativo da longa exposição a altos níveis de concentração de CO2
-no ambiente. Trata-se do [IAM-O2 da marca INKBIRD](https://amzn.to/4mScyHl).
+no ambiente. Trata-se do <a href="https://amzn.to/4mScyHl" target="_blank">IAM-O2 da marca INKBIRD</a>.
 
 <p style="text-align:center; margin:0;">
   <img
@@ -65,7 +67,8 @@ e finalizei a coleta dos dados assim que atingimos uma concentração acima de 1
 </div>
 
 Levou cerca de 40 minutos para o nível de concentração de CO2 ultrapassar o limite máximo aceitável de 1000 ppm. E levou
-1 hora e 25 minutos para atingir 1400 ppm. Como consequência da exposição a esse nível de concentração comecei a apresentar sintomas 
+1 hora e 25 minutos para atingir 1400 ppm. Como consequência da exposição a esse nível de concentração comecei a
+apresentar sintomas
 semelhantes ao de uma crise de enxaqueca.
 
 Fique atento para a capacidade de ventilação do espaço que você usa para trabalhar ou estudar.

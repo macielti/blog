@@ -13,7 +13,7 @@ vencimento), nesse caso, o ativo é devolvido para a corretora que acaba repassa
 > O **mercado secundário** é bem limitado, pode ocorrer da oferta não atender a demanda, o que pode fazer com que essas
 > cotas se encerrem em segundos.
 >
-> \- [XP Investimentos. O que é mercado secundário?](https://atendimento.xpi.com.br/artigo/2062-o-que-e-mercado-secundario)
+> \- <a href="https://atendimento.xpi.com.br/artigo/2062-o-que-e-mercado-secundario" target="_blank"> XP Investimentos. O que é mercado secundário?</a>
 
 ### Resgate antecipado dos ativos
 

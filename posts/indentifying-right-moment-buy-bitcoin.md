@@ -49,7 +49,7 @@ outro lado, se o mercado está receoso, há uma subvalorização.
 >
 > \- <a href="https://feargreedmeter.com/crypto-fear-and-greed-index" target="_blank"> Crypto Fear end Greed Index </a>
 
-O índice trata-se de uma medida numérica inteira que varia de 0 até 100 com a seguinte categorização qualitativa
+O índice trata-se de uma medida numérica que varia de 0 até 100 com a seguinte categorização qualitativa
 descritiva:
 
 - Medo Extremo (0-25)

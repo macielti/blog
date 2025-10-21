@@ -29,7 +29,7 @@ quantidade de moedas por um preço mais baixo, esperando que mais cedo ou mais t
 
 <p style="text-align:center; margin:0;">
   <img
-    src="images/indentifying-right-moment-buy-bitcoin/crypto-fear-and-greed-index.png"
+    src="https://github.com/macielti/blog/blob/main/posts/images/indentifying-right-moment-buy-bitcoin/crypto-fear-and-greed-index.png?raw=true"
     alt="Crypto Fear end Greed Index Dashboard"
     style="max-width:600px; width:100%; height:auto; display:inline-block; border:1px solid #ddd; border-radius:6px;"
   />
@@ -39,9 +39,9 @@ quantidade de moedas por um preço mais baixo, esperando que mais cedo ou mais t
   </span>
 </p>
 
-O <a href="https://feargreedmeter.com" target="_blank"> Fear end Greed Index </a> pode ser utilizado para identificar com maior clareza em que ponto
-do ciclo estamos. Se o mercado está muito otimista, há uma supervalorização do ativo. Por outro lado, se o mercado está
-receoso, há uma subvalorização.
+O <a href="https://feargreedmeter.com" target="_blank"> Fear end Greed Index </a> pode ser utilizado para identificar
+com maior clareza em que ponto do ciclo estamos. Se o mercado está muito otimista, há uma supervalorização do ativo. Por
+outro lado, se o mercado está receoso, há uma subvalorização.
 
 > O Índice de Medo e Ganância das Criptomoedas acompanha o sentimento dos investidores nos mercados de criptomoedas,
 > indicando se o medo ou a ganância estão influenciando as decisões de negociação. Ele analisa fatores como volatilidade

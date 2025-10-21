@@ -64,7 +64,7 @@ decisão:
 
 - Quanto mais próximo do Medo Extremo, o correto a se fazer é comprar mais ativos.
 - Quanto mais próximo da Ganância Extrema, o correto é não comprar e nem vender, mas sim aguardar o próximo momento em
-  que o pêndulo estiver a tender ao Medo Extremo para poder ir às compras.
+  que o pêndulo volte a tender ao Medo Extremo para poder comprar mais ativos subvalorizados.
 
-O mesmo racional também é aplicável a bolsa de valores, mas decisões não devem ser tomadas apenas com base no índice,
-é necessário analisar a saúde das empresas.
+O mesmo racional também é aplicável na bolsa de valores, mas decisões não devem ser tomadas apenas com base no índice,
+é necessário analisar a saúde financeira e o desempenho das empresas negociadas.

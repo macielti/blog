@@ -3,7 +3,7 @@
   <title>Bruno Nascimento's blog</title>
   <link href="https://brunolab.dev.br/atom.xml" rel="self"/>
   <link href="https://brunolab.dev.br"/>
-  <updated>2025-11-13T22:19:02+00:00</updated>
+  <updated>2025-11-13T22:21:27+00:00</updated>
   <id>https://brunolab.dev.br</id>
   <author>
     <name>Bruno do Nascimento Maciel</name>
@@ -45,7 +45,7 @@
 
 &#40;foo-bar-coercer invalid-foor-bar-json-input&#41;
 =&gt; #schema.utils.ErrorContainer{:error {&quot;test-i&quot; &#40;not &#40;= &quot;FOO BAR&quot; &quot;Blue Pen&quot;&#41;&#41;}}
-</code></pre><p>Quando executamos a chamada <code>&#40;foo-bar-coercer valid-foor-bar-json-input&#41;</code> temos o retorno esperado, onde o valor "FOO" foi transformado em "FOO BAR" e o resultado atende ao schema especificado.</p><p>No segundo exemplo de chamada <code>&#40;foo-bar-coercer invalid-foor-bar-json-input&#41;</code>  o dado de entrada passou pelo step de transformação, mas a saída não atendeu o schema esperado gerando um erro.</p><h3 id="como_isso_%C3%A9_utilizado_de_forma_mais_pr%C3%A1tica_e_%C3%BAtil%3F">Como isso é utilizado de forma mais prática e útil?</h3><ul><li>Coerção de dados de entrada que estão no formato JSON onde todos os valores são strings ou números, conseguimos  derivar tipos de dados mais específicos, como automaticamente converter datas em string para o tipo LocalDate interno  do Java/Clojure, internalizar valores numéricos sem perder precisão.<ul><li>Código font da lib com um exemplo de coerção de JSON para mapa      Clojure: https://github.com/plumatic/schema/blob/master/src/cljc/schema/coerce.cljc</li></ul></li></ul>]]></content>
+</code></pre><p>Quando executamos a chamada <code>&#40;foo-bar-coercer valid-foor-bar-json-input&#41;</code> temos o retorno esperado, onde o valor "FOO" foi transformado em "FOO BAR" e o resultado atende ao schema especificado.</p><p>No segundo exemplo de chamada <code>&#40;foo-bar-coercer invalid-foor-bar-json-input&#41;</code>  o dado de entrada passou pelo step de transformação, mas a saída não atendeu o schema esperado gerando um erro.</p><h3 id="como_isso_%C3%A9_utilizado_de_forma_mais_pr%C3%A1tica_e_%C3%BAtil%3F">Como isso é utilizado de forma mais prática e útil?</h3><ul><li>Coerção de dados de entrada que estão no formato JSON onde todos os valores são strings ou números, conseguimos  derivar tipos de dados mais específicos, como automaticamente converter datas em string para o tipo LocalDate interno  do Java/Clojure, internalizar valores numéricos sem perder precisão.<ul><li>Código fonte da lib com um exemplo de coerção de JSON para mapa      Clojure: https://github.com/plumatic/schema/blob/master/src/cljc/schema/coerce.cljc</li></ul></li></ul>]]></content>
   </entry>
   <entry>
     <id>https://brunolab.dev.br/indentifying-right-moment-buy-bitcoin.html</id>

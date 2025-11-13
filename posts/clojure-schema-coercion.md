@@ -108,7 +108,7 @@ transformação, mas a saída não atendeu o schema esperado gerando um erro.
 * Coerção de dados de entrada que estão no formato JSON onde todos os valores são strings ou números, conseguimos
   derivar tipos de dados mais específicos, como automaticamente converter datas em string para o tipo LocalDate interno
   do Java/Clojure, internalizar valores numéricos sem perder precisão.
-    * Código font da lib com um exemplo de coerção de JSON para mapa
+    * Código fonte da lib com um exemplo de coerção de JSON para mapa
       Clojure: https://github.com/plumatic/schema/blob/master/src/cljc/schema/coerce.cljc
 
 

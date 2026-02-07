@@ -1,4 +1,4 @@
-Title: Confortos proporcionados por refletir sobre as consequências de segunda e terceira ordem
+Title: Conforto proporcionado por refletir sobre consequências de segunda e terceira ordem
 Date: 2026-02-07
 Tags: Reflexão
 

@@ -1,4 +1,4 @@
-Title: O silêncio como matéria prima da pessoa musicista
+Title: O silêncio como matéria-prima da pessoa musicista
 Date: 2026-02-19
 Tags: Reflexão
 

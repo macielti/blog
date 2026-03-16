@@ -1,5 +1,4 @@
-Title: A Nova Barreira de Entrada para o Desenvolvimento de Software: Um computador, acesso à internet e tempo livre não
-são mais suficientes para o sucesso
+Title: A Nova Barreira de Entrada para o Desenvolvimento de Software: Um computador, acesso à internet e tempo livre não são mais suficientes para o sucesso
 Date: 2026-03-15
 Tags: Reflexão
 

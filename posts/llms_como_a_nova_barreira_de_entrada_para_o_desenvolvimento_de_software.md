@@ -28,10 +28,15 @@ sua força de vontade, tempo livre e um computador com acesso à internet. Agora
 de hoje já conseguirmos rodar LLMs de forma local, nada se compara à performance obtida pelos modelos fechados e
 comercializados, além da infraestrutura necessária para rodar uma LLM localmente.
 
-Não me oponho ao uso de LLMs no desenvolvimento de software, já as utilizo no meu dia a dia de forma produtiva. Não me
-importo em reduzir o contato direto com o código, foi a porta de entrada no início da minha carreira, hoje isso assume
-um papel secundário e o foco se torna o pensamento estratégico aplicado à definição da arquitetura dos sistemas mantendo
-a qualidade e a capacidade de extensão para atender novos casos de uso dos clientes.
-
-Mas proponho a reflexão para um plano B no caso em que as ferramentas para geração de código passem a ter um acesso
-mais restritivo favorecendo apenas quem possui maior poder aquisitivo, provocando uma financeirização da produtividade.
+<div style="background-color:#fff3cd; color:#856404; padding:15px; border:1px solid #ffeeba; border-radius:5px; margin:10px 0;">
+  <p>
+    Não me oponho ao uso de LLMs no desenvolvimento de software, já as utilizo no meu dia a dia de forma produtiva. Não me
+    importo em reduzir o contato direto com o código, foi a porta de entrada no início da minha carreira, hoje isso assume
+    um papel secundário e o foco se torna o pensamento estratégico aplicado à definição da arquitetura dos sistemas mantendo
+    a qualidade e a capacidade de extensão para atender a novos casos de uso.
+  </p>
+  <p>
+    Mas proponho a reflexão para um plano B no caso em que as ferramentas para geração de código passem a ter um acesso
+    mais restritivo favorecendo apenas quem possui maior poder aquisitivo, provocando uma financeirização da produtividade.
+  </p>
+</div>

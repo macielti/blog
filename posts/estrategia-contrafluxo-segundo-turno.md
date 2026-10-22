@@ -4,8 +4,6 @@ Tags: Investimento, Contrafluxo, Eleições 2026, Bolsa de Valores
 
 Vamos observar como a estratégia de investimento do contrafluxo pode ser aplicada no contexto do segundo turno das eleições de 2026 para presidência do Brasil.
 
-Palavras-chave: estratégia do contrafluxo; bolsa de valores; eleições segundo turno 2026.
-
 ### 1 Contrafluxo
 
 O mercado costuma alocar o capital investido baseando-se em expectativas para o futuro. Esse é o significado de quando se diz que algum evento futuro já se encontra precificado pelo mercado.

@@ -2,9 +2,9 @@ Title: Estratégia de Investimento de Contrafluxo até o Segundo Turno
 Date: 2026-10-21
 Tags: Investimento, Contrafluxo, Eleições 2026, Bolsa de Valores
 
-Vamos observar como a estratégia de investimento do contrafluxo pode ser aplicada no contexto do segundo turno das eleições de 2026 para presidência do Brasil.
+**Como a estratégia de investimento do contrafluxo pode ser aplicada no contexto do segundo turno das eleições de 2026 para presidência do Brasil?**
 
-### 1 Contrafluxo
+### Contrafluxo
 
 O mercado costuma alocar o capital investido baseando-se em expectativas para o futuro. Esse é o significado de quando se diz que algum evento futuro já se encontra precificado pelo mercado.
 
@@ -20,7 +20,7 @@ A estratégia do contrafluxo se aproveita dessas oportunidades nos momentos de e
 
 Mas não queremos ficar sempre evitando o que está se valorizando em cada momento. O ideal é sempre buscar comprar ativos de qualidade no momento em que eles estiverem baratos e desvalorizados. A palavra qualidade é muito importante. Uma vez que o investidor monta a sua carteira com uma lista dos ativos com ótimos fundamentos (qualidade) divididos em categorias, e também definindo metas de percentual de alocação para cada categoria, ele pode simplesmente só seguir rebalanceando a carteira através de novos aportes.
 
-### 2 Aplicando contrafluxo no cenário atual antes do segundo turno
+### Aplicando contrafluxo no cenário atual antes do segundo turno
 
 O investidor, que não pode ser confundido com especulador, já tem a sua carteira curada com ativos de qualidade, sejam ações do mercado brasileiro ou ETFs internacionais visando diversificação. Vamos deixar a classe de ativos de renda fixa de fora para simplificar o exemplo.
 
@@ -30,6 +30,6 @@ Aplicando o contrafluxo, os novos aportes devem ser direcionados ao mercado inte
 
 Vale mencionar que nem sempre o movimento entre o dólar e o real é inverso, pode acontecer de os dois se valorizarem ao mesmo tempo.
 
-### 3 Conclusão
+### Conclusão
 
 Não é produtivo investir reagindo a notícias e boatos sobre o futuro, o especulador compra quando tudo está caro e vende no pânico quando tudo perde valor. Aplique a estratégia do contrafluxo em ativos de qualidade e vai acabar sempre comprando ativos bem fundamentados com o melhor desconto.

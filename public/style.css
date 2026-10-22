@@ -8,29 +8,6 @@ body {
 
 h1, h2, h3 {
   font-weight: 800;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-}
-
-h1 {
-  font-size: 2em;
-  line-height: 1.2;
-  max-width: 100%;
-  word-break: break-word;
-  margin: 0.5em 0;
-}
-
-@media (max-width: 480px) {
-  h1 {
-    font-size: 1.3em;
-    margin: 0.4em 0;
-  }
-}
-
-@media (max-width: 360px) {
-  h1 {
-    font-size: 1.1em;
-  }
 }
 
 a {

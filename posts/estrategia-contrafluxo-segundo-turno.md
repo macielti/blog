@@ -1,4 +1,4 @@
-Title: Estratégia de Investimento de Contrafluxo até o Segundo Turno
+Title: Estratégia de Investimento (Contrafluxo) até o Segundo Turno
 Date: 2026-10-21
 Tags: Investimento, Contrafluxo, Eleições 2026, Bolsa de Valores
 

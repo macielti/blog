@@ -15,11 +15,21 @@ h1, h2, h3 {
 h1 {
   font-size: 2em;
   line-height: 1.2;
+  max-width: 100%;
+  word-break: break-word;
+  margin: 0.5em 0;
 }
 
 @media (max-width: 480px) {
   h1 {
-    font-size: 1.5em;
+    font-size: 1.3em;
+    margin: 0.4em 0;
+  }
+}
+
+@media (max-width: 360px) {
+  h1 {
+    font-size: 1.1em;
   }
 }
 

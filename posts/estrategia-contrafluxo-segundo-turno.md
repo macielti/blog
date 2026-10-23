@@ -21,7 +21,7 @@ O mercado costuma alocar o capital investido baseando-se em expectativas para o 
 se diz que algum evento futuro já se encontra precificado pelo mercado.
 
 Com o resultado das eleições de segundo turno para presidência sinalizando a possibilidade de eleição do Flávio
-Bolsonaro (PL-RJ), o Ibovespa reagiu com uma alta de 7,70% já na segunda feira pós primeiro turno.
+Bolsonaro (PL-RJ), o Ibovespa reagiu com uma alta de 7,70% já na segunda-feira pós-primeiro turno.
 
 Com a expectativa de um próximo presidente mais alinhado aos caprichos do mercado, que salivam por ajustes nas contas
 públicas (política de austeridade), a percepção de risco dos títulos de dívida pública caíram, levando os investidores a
@@ -53,13 +53,13 @@ O investidor, que não pode ser confundido com especulador, já tem a sua cartei
 ações do mercado brasileiro ou ETFs internacionais visando diversificação. Vamos deixar a classe de ativos de renda fixa
 de fora para simplificar o exemplo.
 
-Considerando o cenário onde definimos como meta investir 50% no Brasil e a outra metade em ETFs internacionais
-utilizando dólares, antes do resultado do primeiro turno, a carteira se encontrava perfeitamente balanceada, com
-R$100.000,00 em ações brasileiras e mais 100 mil reais equivalentes em dólares investidos internacionalmente, também
-considerando uma descorrelação perfeita entre dólar e real. Após o resultado do primeiro turno e com a valorização
-repentina da bolsa brasileira junto com a desvalorização do dólar, a carteira passa a ficar desbalanceada. Agora temos
-107 mil reais (7% de valorização) em ações brasileiras e 93 mil reais em dólares (7% de desvalorização). Como resultado,
-temos 57% no Brasil e 43% no mercado internacional totalizando 100% do patrimônio investido.
+Considerando o cenário onde definimos como meta investir 50% no Brasil e a outra metade em ETFs internacionais (dólar),
+antes do resultado do primeiro turno, a carteira se encontrava perfeitamente balanceada, com R$100.000,00 em ações
+brasileiras e mais 100 mil reais equivalentes em dólares investidos internacionalmente, também considerando uma
+descorrelação perfeita entre dólar e real. Após o resultado do primeiro turno e com a valorização repentina da bolsa
+brasileira junto com a desvalorização do dólar, a carteira passa a ficar desbalanceada. Agora temos 107 mil reais (7% de
+valorização) em ações brasileiras e 93 mil reais em dólares (7% de desvalorização). Como resultado, temos 57% no Brasil
+e 43% no mercado internacional totalizando 100% do patrimônio investido.
 
 Aplicando o contrafluxo, os novos aportes devem ser direcionados ao mercado internacional até que voltemos a ter 50%
 (107 mil reais) no Brasil e 50% (valor em dólar equivalente aos 107 mil reais) lá fora. Dessa forma você reduz o custo

@@ -12,8 +12,7 @@ Tags: Investimento, Contrafluxo, Eleições 2026, Bolsa de Valores
   </p>
 </div>
 
-**Como a estratégia de investimento do contrafluxo pode ser aplicada no contexto do segundo turno das eleições de 2026
-para Presidência da República?**
+**Como a estratégia de investimento do contrafluxo pode ser aplicada no contexto do segundo turno das eleições de 2026 para Presidência da República?**
 
 ### Contrafluxo
 

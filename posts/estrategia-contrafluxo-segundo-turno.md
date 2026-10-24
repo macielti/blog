@@ -25,10 +25,9 @@ resultam em lucros maiores.
 Na maioria das vezes, alta no Ibovespa anda junto com a queda do dólar. O real se valoriza com a demanda por troca
 (venda) do dólar por real para investir no Brasil.
 
-Com a alta da bolsa e o aumento na atratividade de seus ativos, todo mundo quer investir no que está entregando
-crescimento e valorização, ninguém quer ficar fora da festa. Dados os holofotes apontados com total potência para uma
-área específica, torna-se difícil enxergar a existência de oportunidades com maior potencial de retornos positivos nos
-arredores da zona de foco principal.
+A alta da bolsa aumentando a atratividade dos ativos, convida todos a investirem aqui no Brasil, ninguém quer ficar 
+fora da festa. Com os holofotes apontados com toda a força para uma área específica, torna-se difícil enxergar a 
+existência de oportunidades com maior potencial de retorno nos arredores da zona de foco principal.
 
 A estratégia do contrafluxo se aproveita dessas oportunidades nos momentos de euforia e entusiasmo. Utilizando como
 exemplo o cenário atual, o dólar é um ativo de proteção e diversificação de boa qualidade que nesse momento está mais

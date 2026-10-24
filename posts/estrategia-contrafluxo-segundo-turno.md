@@ -11,7 +11,7 @@ Tags: Investimento, Contrafluxo, Eleições 2026, Bolsa de Valores
 ### Contrafluxo
 
 O mercado costuma alocar o capital investido baseando-se em expectativas para o futuro, isso significa dizer que
-possíveis eventos futuros já se encontram precificados pelo mercado.
+possíveis eventos já se encontram precificados pelo mercado.
 
 Com o resultado do primeiro turno das eleições para presidência sinalizando a possibilidade de eleição do candidato Flávio
 Bolsonaro (PL-RJ), o Ibovespa reagiu com uma alta de 7,70% já na segunda-feira pós-primeiro turno.

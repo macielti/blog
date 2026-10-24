@@ -2,14 +2,11 @@ Title: Experimentos com a aplicação de LLMs no processo de montagem de uma car
 Date: 2025-09-27
 Tags: Investimento, Automação, LLM (Large Language Model
 
-<div style="background-color:#fff3cd; color:#856404; padding:15px; border:1px solid #ffeeba; border-radius:5px; margin:10px 0;">
-  <h3> Isenção de responsabilidade </h3>
-
-  <p>
-    Não possuo nenhuma credencial de analista de investimento. O conteúdo dessa página não se trata de uma sugestão de
-    investimento. Não me responsabilizo pelas consequências de colocar o conteúdo a seguir em prática.
-  </p>
-</div>
+<p class="disclaimer">
+  <strong>Isenção de responsabilidade:</strong> Não possuo nenhuma credencial de analista de investimento. O conteúdo
+  dessa página não se trata de uma sugestão de investimento. Não me responsabilizo pelas consequências de colocar o
+  conteúdo a seguir em prática.
+</p>
 
 Em abril de 2025 o presidente dos Estados Unidos anunciou que aplicaria taxas de importação de 10% para todos os países
 visando aquecer a indústria interna, esperando trazer fábricas para produção em território norte-americano.

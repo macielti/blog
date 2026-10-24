@@ -2,15 +2,11 @@ Title: Estratégia de Investimento (Contrafluxo) até o Segundo Turno
 Date: 2026-10-21
 Tags: Investimento, Contrafluxo, Eleições 2026, Bolsa de Valores
 
-<div style="background-color:#fff3cd; color:#856404; padding:15px; border:1px solid #ffeeba; border-radius:5px; margin:10px 0;">
-  <h3> Isenção de responsabilidade </h3>
-
-  <p>
-    Não possuo nenhuma credencial de analista de investimento. O conteúdo dessa página não se trata de sugestão de 
-    estratégia de investimento. Não me responsabilizo pelas consequências de colocar o conteúdo a seguir 
-    em prática.
-  </p>
-</div>
+<p class="disclaimer">
+  <strong>Isenção de responsabilidade:</strong> Não possuo nenhuma credencial de analista de investimento. O conteúdo
+  dessa página não se trata de sugestão de estratégia de investimento. Não me responsabilizo pelas consequências de
+  colocar o conteúdo a seguir em prática.
+</p>
 
 **Como a estratégia de investimento do contrafluxo pode ser aplicada no contexto do segundo turno das eleições de 2026 para Presidência da República?**
 

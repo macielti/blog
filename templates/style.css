@@ -105,6 +105,16 @@ code {
   white-space: nowrap;
 }
 
+.disclaimer {
+  background-color: #fff8e1;
+  border-left: 3px solid #e0b84c;
+  color: #6b5200;
+  font-size: 0.85em;
+  line-height: 1.45;
+  margin: 0 0 1.25em;
+  padding: 0.6em 0.9em;
+}
+
 img,
 video,
 iframe {

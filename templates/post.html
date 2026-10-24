@@ -1,17 +1,19 @@
-<h1>
-  {% if post-link %}
-  <a href="{{post-link}}">
-  {% endif %}
-  {{title}}
-  {% if post-link %}
-  </a>
-  {% endif %}
-</h1>
+<div class="post-header">
+  <h1>
+    {% if post-link %}
+    <a href="{{post-link}}">
+    {% endif %}
+    {{title}}
+    {% if post-link %}
+    </a>
+    {% endif %}
+  </h1>
+  <span class="post-date">{{date|long-date}}</span>
+</div>
 {{body | safe}}
 {% if discuss-link %}
 <p>Discuss this post <a href="{{discuss}}">here</a>.</p>
 {% endif %}
-<p><i>Published: {{date}}</i></p>
 {% if tags %}
 <p>
   <i>

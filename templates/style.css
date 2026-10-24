@@ -149,9 +149,10 @@ iframe {
   }
 
   h1 {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     font-weight: 700;
     line-height: 1.2;
+    letter-spacing: -0.01em;
     margin: 0.6rem 0 0.75rem;
     overflow-wrap: anywhere;
   }

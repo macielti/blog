@@ -4,17 +4,13 @@
  :tasks
  {:requires ([quickblog.cli :as cli]
              [selmer.filters :as filters])
-  :init     (do (def month-names
-                  ["janeiro" "fevereiro" "março" "abril" "maio" "junho"
-                   "julho" "agosto" "setembro" "outubro" "novembro" "dezembro"])
+  :init     (do (def long-date-formatter
+                  (java.time.format.DateTimeFormatter/ofPattern "MMMM d, yyyy" java.util.Locale/ENGLISH))
 
                 (defn long-date
-                  "Formats a yyyy-MM-dd date string as \"15 de março de 2026\"."
+                  "Formats a yyyy-MM-dd date string as \"October 12, 2026\"."
                   [date]
-                  (let [local-date (java.time.LocalDate/parse date)]
-                    (str (.getDayOfMonth local-date)
-                         " de " (nth month-names (dec (.getMonthValue local-date)))
-                         " de " (.getYear local-date))))
+                  (.format (java.time.LocalDate/parse date) long-date-formatter))
 
                 (filters/add-filter! :long-date long-date)
 

@@ -99,8 +99,8 @@ code {
 }
 
 .post-date {
-  color: #767676;
-  font-size: 0.85em;
+  color: #555;
+  font-size: 0.9em;
   letter-spacing: 0.02em;
   white-space: nowrap;
 }

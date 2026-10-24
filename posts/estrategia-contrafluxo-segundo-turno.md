@@ -1,4 +1,5 @@
-Title: Como a estratégia de investimento do contrafluxo pode ser aplicada no contexto do segundo turno das eleições de 2026 para Presidência da República?
+Title: Como a estratégia de investimento do contrafluxo pode ser aplicada no contexto do segundo turno das eleições de
+2026 para Presidência da República?
 Date: 2026-10-21
 Tags: Investimento, Contrafluxo, Eleições 2026, Bolsa de Valores
 
@@ -19,8 +20,8 @@ Bolsonaro (PL-RJ), o Ibovespa reagiu com uma alta de 7,70% já na segunda-feira 
 Com a expectativa de um próximo presidente mais alinhado aos caprichos do mercado, que salivam por ajustes nas contas
 públicas (política de austeridade), a percepção de risco dos títulos de dívida pública caiu, levando os investidores a
 aceitar um prêmio de risco menor para emprestar dinheiro para o governo. O que também se traduz em uma expectativa de
-crédito mais barato para as empresas, que colhem redução na taxa de crescimento das dívidas. Menos dívidas para pagar é
-mais lucro para as empresas.
+crédito mais barato para as empresas, que colhem redução na taxa de crescimento das dívidas. Menos dívidas para pagar
+significa lucros maiores como resultado.
 
 Na maioria das vezes, alta no Ibovespa anda junto com a queda do dólar. O real se valoriza com a demanda por troca
 (venda) do dólar por real para investir no Brasil.

@@ -61,11 +61,14 @@
 
     <div class="wrapper">
 
-      <h1>
-  
-  Transformação/Coerção de valores com base em Schemas - Clojure
-  
-</h1>
+      <div class="post-header">
+  <h1>
+    
+    Transformação/Coerção de valores com base em Schemas - Clojure
+    
+  </h1>
+  <span class="post-date">2025-11-13</span>
+</div>
 <p>Compartilhando um pouco do que sei sobre como se dá o processo de coerção de uma estrutura de dados usando um schema como base.</p><h3 id="1._conceitos_fundamentais">1. Conceitos Fundamentais</h3><h3 id="1.1_schemas">1.1 Schemas</h3><p>É uma notação utilizada pra descrever o formato de uma estrutura de dados. Quando trabalhamos com o Clojure, é muito difundido no mercado a biblioteca <a href='https://github.com/plumatic/schema'>Plumatic/Prismatic Schema</a>, ela fornece uma série de helpers para facilitar a composição dos formatos de dados, o que chamamos de schemas, e também provê meios para que possamos aplicar validações dos valores contra os formatos esperados, seja na validação da estrutura de dados de entrada e saída de uma função, até mesmo o body de requisição ou de resposta de um determinado endpoint HTTP.</p><p>Exemplo do schema de um mapa (estrutura de dados) que representa uma pessoa, no exemplo definimos quais as chaves e os tipos esperados para os valores:</p><pre class="language-Clojure"><code class="lang-Clojure language-Clojure">&#40;require '&#91;schema.core&#93;&#41;
 
 &#40;def ColorEnum &#40;schema.core/enum :red :green :blue&#41;&#41;
@@ -100,7 +103,6 @@
 =&gt; #schema.utils.ErrorContainer{:error {&quot;test-i&quot; &#40;not &#40;= &quot;FOO BAR&quot; &quot;Blue Pen&quot;&#41;&#41;}}
 </code></pre><p>Quando executamos a chamada <code>&#40;foo-bar-coercer valid-foor-bar-json-input&#41;</code> temos o retorno esperado, onde o valor "FOO" foi transformado em "FOO BAR" e o resultado atende ao schema especificado.</p><p>No segundo exemplo de chamada <code>&#40;foo-bar-coercer invalid-foor-bar-json-input&#41;</code>  o dado de entrada passou pelo step de transformação, mas a saída não atendeu o schema esperado gerando um erro.</p><h3 id="como_isso_%C3%A9_utilizado_de_forma_mais_pr%C3%A1tica_e_%C3%BAtil%3F">Como isso é utilizado de forma mais prática e útil?</h3><ul><li>Coerção de dados de entrada que estão no formato JSON onde todos os valores são strings ou números, conseguimos  derivar tipos de dados mais específicos, como automaticamente converter datas em string para o tipo LocalDate interno  do Java/Clojure, internalizar valores numéricos sem perder precisão.<ul><li>Código fonte da lib com um exemplo de coerção de JSON para mapa      Clojure: https://github.com/plumatic/schema/blob/master/src/cljc/schema/coerce.cljc</li></ul></li></ul>
 
-<p><i>Published: 2025-11-13</i></p>
 
 <p>
   <i>

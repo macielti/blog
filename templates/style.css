@@ -1,25 +1,23 @@
 body {
-  /* borrowed from metaredux.com */
-  font: 400 16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  /* retro, serif, inspired by jefftk.com */
+  font: 400 17px/1.6 Georgia,"Times New Roman",Times,serif;
   margin: 0;
   padding: 0;
-  color: rgb(51, 65, 85)
+  color: #222;
+  background: #fff;
 }
 
 h1, h2, h3 {
-  font-weight: 800;
+  font-weight: 700;
 }
 
 a {
-  color: rgb(51, 65, 85)
-}
-
-h1 a {
-  text-decoration: none;
-}
-
-h1 a:hover {
+  color: #0000ee;
   text-decoration: underline;
+}
+
+a:visited {
+  color: #551a8b;
 }
 
 .wrapper {
@@ -39,7 +37,7 @@ p {
 
 .site-header {
   border-top: 2px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-bottom: 1px solid #ccc;
   min-height: 55.95px;
   position: relative;
 }
@@ -58,7 +56,6 @@ p {
 }
 
 .page-link {
-  text-decoration: none;
   vertical-align: middle;
 }
 
@@ -75,12 +72,34 @@ ul.index {
   margin-bottom: 1em;
 }
 
+code,
+pre {
+  font-family: Menlo,Consolas,"Liberation Mono",monospace;
+}
+
 code {
   white-space: pre;
 }
 
 .listing {
   max-width: 600px;
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0 1rem;
+}
+
+.post-header h1 {
+  margin: 0.5em 0 0.25em;
+}
+
+.post-date {
+  font-style: italic;
+  white-space: nowrap;
 }
 
 img,
@@ -132,6 +151,10 @@ iframe {
     line-height: 1.2;
     margin: 0.6rem 0 0.75rem;
     overflow-wrap: anywhere;
+  }
+
+  .post-date {
+    font-size: 0.95rem;
   }
 
   pre {

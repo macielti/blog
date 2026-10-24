@@ -18,7 +18,7 @@ Bolsonaro (PL-RJ), o Ibovespa reagiu com uma alta de 7,70% já na segunda-feira 
 
 Com a expectativa de um próximo presidente mais alinhado aos caprichos do mercado, que salivam por ajustes nas contas
 públicas (política de austeridade), a percepção de risco dos títulos de dívida pública caiu, levando os investidores a
-aceitar um prêmio de risco menor para emprestar dinheiro para o governo. O que também se traduz em uma expectativa de
+aceitar um prêmio de risco menor ao emprestar dinheiro para o governo. O que também se traduz em uma expectativa de
 crédito mais barato para as empresas, que colhem redução na taxa de crescimento das dívidas. Menos dívidas para pagar 
 resultam em lucros maiores.
 

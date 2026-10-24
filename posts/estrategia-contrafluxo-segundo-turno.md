@@ -58,9 +58,8 @@ antes do resultado do primeiro turno, a carteira se encontrava perfeitamente bal
 brasileiras e mais R$ 100 mil equivalentes em dólares investidos internacionalmente, também considerando uma
 descorrelação perfeita entre dólar e real. Após o resultado do primeiro turno e com a valorização repentina da bolsa
 brasileira junto com a desvalorização do dólar, a carteira passa a ficar desbalanceada. Agora temos R$ 107 mil (7% de
-valorização) em ações brasileiras e R$ 93 mil reais em dólares (7% de desvalorização). Como resultado, temos 56,5% no
-Brasil
-e 46,5% no mercado internacional totalizando 100% do patrimônio investido.
+valorização) em ações brasileiras e R$ 93 mil em dólares (7% de desvalorização). Como resultado, temos 53,5% no
+Brasil e 46,5% no mercado internacional totalizando 100% do patrimônio investido.
 
 Aplicando o contrafluxo, os novos aportes devem ser direcionados ao mercado internacional até que voltemos a ter 50%
 (R$ 107 mil) no Brasil e 50% (valor em dólar equivalente aos R$ 107 mil) lá fora. Dessa forma você reduz o custo

@@ -2,7 +2,7 @@
     <div>
         <div class="post-header">
             <h1><a href="{{post.post-link}}">{{post.title}}</a></h1>
-            <span class="post-date">{{post.date}}</span>
+            <span class="post-date">{{post.date|long-date}}</span>
         </div>
         {{post.body | safe}}
         {% if post.truncated %}

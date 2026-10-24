@@ -8,7 +8,7 @@
     </a>
     {% endif %}
   </h1>
-  <span class="post-date">{{date}}</span>
+  <span class="post-date">{{date|long-date}}</span>
 </div>
 {{body | safe}}
 {% if discuss-link %}

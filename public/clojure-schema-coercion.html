@@ -67,7 +67,7 @@
     Transformação/Coerção de valores com base em Schemas - Clojure
     
   </h1>
-  <span class="post-date">2025-11-13</span>
+  <span class="post-date">13 de novembro de 2025</span>
 </div>
 <p>Compartilhando um pouco do que sei sobre como se dá o processo de coerção de uma estrutura de dados usando um schema como base.</p><h3 id="1._conceitos_fundamentais">1. Conceitos Fundamentais</h3><h3 id="1.1_schemas">1.1 Schemas</h3><p>É uma notação utilizada pra descrever o formato de uma estrutura de dados. Quando trabalhamos com o Clojure, é muito difundido no mercado a biblioteca <a href='https://github.com/plumatic/schema'>Plumatic/Prismatic Schema</a>, ela fornece uma série de helpers para facilitar a composição dos formatos de dados, o que chamamos de schemas, e também provê meios para que possamos aplicar validações dos valores contra os formatos esperados, seja na validação da estrutura de dados de entrada e saída de uma função, até mesmo o body de requisição ou de resposta de um determinado endpoint HTTP.</p><p>Exemplo do schema de um mapa (estrutura de dados) que representa uma pessoa, no exemplo definimos quais as chaves e os tipos esperados para os valores:</p><pre class="language-Clojure"><code class="lang-Clojure language-Clojure">&#40;require '&#91;schema.core&#93;&#41;
 

@@ -2,14 +2,11 @@ Title: Como identifico o momento correto para compra de Bitcoin?
 Date: 2025-10-20
 Tags: Investimento
 
-<div style="background-color:#fff3cd; color:#856404; padding:15px; border:1px solid #ffeeba; border-radius:5px; margin:10px 0;">
-  <h3> Isenção de responsabilidade </h3>
-
-  <p>
-    Não possuo nenhuma credencial de analista de investimento. O conteúdo dessa página não se trata de uma sugestão de
-    investimento. Não me responsabilizo pelas consequências de colocar o conteúdo a seguir em prática.
-  </p>
-</div>
+<p class="disclaimer">
+  <strong>Isenção de responsabilidade:</strong> Não possuo nenhuma credencial de analista de investimento. O conteúdo
+  dessa página não se trata de uma sugestão de investimento. Não me responsabilizo pelas consequências de colocar o
+  conteúdo a seguir em prática.
+</p>
 
 Não sou a pessoa mais entusiasta sobre o mercado de criptomoedas. Reconheço o histórico e o potencial de valorização,
 mas não guardaria todos os meus ovos nessa única cesta.

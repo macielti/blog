@@ -20,6 +20,10 @@ a:visited {
   color: #551a8b;
 }
 
+a:active {
+  color: #ee0000;
+}
+
 .wrapper {
   max-width: 800px;
   margin: 0 auto 0 auto;

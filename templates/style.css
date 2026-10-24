@@ -14,6 +14,14 @@ a {
   color: rgb(51, 65, 85)
 }
 
+h1 a {
+  text-decoration: none;
+}
+
+h1 a:hover {
+  text-decoration: underline;
+}
+
 .wrapper {
   max-width: 800px;
   margin: 0 auto 0 auto;

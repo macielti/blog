@@ -91,6 +91,7 @@ code {
   align-items: baseline;
   flex-wrap: wrap;
   gap: 0 1rem;
+  margin-bottom: 1.25em;
 }
 
 .post-header h1 {
@@ -98,7 +99,9 @@ code {
 }
 
 .post-date {
-  font-style: italic;
+  color: #767676;
+  font-size: 0.85em;
+  letter-spacing: 0.02em;
   white-space: nowrap;
 }
 
@@ -151,10 +154,6 @@ iframe {
     line-height: 1.2;
     margin: 0.6rem 0 0.75rem;
     overflow-wrap: anywhere;
-  }
-
-  .post-date {
-    font-size: 0.95rem;
   }
 
   pre {

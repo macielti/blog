@@ -11,13 +11,13 @@ negativos para as habilidades relacionadas à cognição humana.
 
 Com todas as evidências da possibilidade de chegar a um quadro de sedentarismo cognitivo por conta da dependência de
 Inteligência Artificial Generativa, a constante exposição diária a esse tipo de tecnologia no desenvolvimento das minhas
-atividades laborais e depois de observar desconfiadamente sinais iniciais desse problema, decidi trazer pra minha rotina
+atividades laborais e depois de observar desconfiadamente sinais iniciais de declínio, decidi trazer pra minha rotina
 um conjunto de hábitos de autocuidado e desenvolvimento pessoal focados em exercitar habilidades cognitivas com
 frequência diária.
 
 ### Ensaios acadêmicos
 
-O Ensaio como modalidade de texto é amplamente conhecido no meio acadêmico. Ele tem como objetivo apresentar as ideias e
+O ensaio como modalidade de texto é amplamente conhecido no meio acadêmico. Ele tem como objetivo apresentar as ideias e
 opiniões do autor a respeito de um tema, mas sem a necessidade de esgotar o mesmo.
 
 O rigor da academia exige começar por um trabalho exaustivo de pesquisa bibliográfica, assim o autor estará municiado de
@@ -30,7 +30,7 @@ Outro fator motivante é a importância que a habilidade de comunicação vem ga
 software tendo a rotina de trabalho cada vez menos composta por sessões onde o isolamento do mundo externo é empregado na escrita de
 código, e agora cada vez mais dominada por sessões de discussões sobre planejamento, escrita de documentação,
 desenho de arquitetura de sistemas e fluxos. Atividades altamente potencializadas pelo fator comunicação, ou seja, da
-capacidade de expressar ideias. Também, a medida que se evolui na carreira o fator político ganha uma certa 
+capacidade de expressar ideias. Também, a medida que se evolui na carreira, o fator político ganha uma certa 
 relevância. Tudo isso tem como base a capacidade de se comunicar bem, e o hábito da escrita tem um impacto positivo
 nessa área.
 
@@ -48,8 +48,8 @@ O uso de LLMs (ChatGPT, Gemini e outras) no processo de escrita dos ensaios deve
 espaço seguro e sem pressa para praticar e exercitar a habilidade de se comunicar e expressar ideias por meio da
 escrita.
 
-Sessões diárias de pelo menos 25 minutos de foco pleno no processo criativo de escrita e revisão. E aqui se fará valer
-as palavras de Graciliano Ramos:
+Sessões diárias de foco pleno no processo criativo de escrita e revisão. E aqui se fará valer
+as palavras de Graciliano Ramos sobre o processo de escrita:
 
 > “Deve-se escrever da mesma maneira como as lavadeiras lá de Alagoas fazem seu ofício. Elas começam com uma primeira
 > lavada, molham a roupa suja na beira da lagoa ou do riacho, torcem o pano, molham-no novamente, voltam a torcer. Colocam

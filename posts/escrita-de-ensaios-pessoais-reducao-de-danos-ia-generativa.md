@@ -21,7 +21,7 @@ O ensaio como modalidade de texto é amplamente conhecido no meio acadêmico. El
 opiniões do autor a respeito de um tema, mas sem a necessidade de esgotá-lo.
 
 O rigor da academia exige começar por um trabalho exaustivo de pesquisa bibliográfica. Assim, o autor estará municiado de
-evidências e contexto sobre o assunto a respeiro do qual a sua opinião será apresentada.
+evidências e contexto sobre o assunto a respeito do qual a sua opinião será apresentada.
 
 Atrai-me o impacto do processo de escrita de um ensaio, que exige o exercício das habilidades cognitivas e,
 consequentemente, deságua no fortalecimento e desenvolvimento intelectual.

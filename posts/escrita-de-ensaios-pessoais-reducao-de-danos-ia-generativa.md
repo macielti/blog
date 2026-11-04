@@ -31,8 +31,7 @@ software, tendo a rotina de trabalho cada vez menos composta por sessões em que
 código, e agora cada vez mais dominada por sessões de discussões sobre planejamento, escrita de documentação,
 desenho de arquitetura de sistemas e fluxos. Atividades altamente potencializadas pelo fator comunicação, ou seja, pela 
 capacidade de expressar ideias. Também, à medida que se evolui na carreira, o fator político ganha uma certa 
-relevância. Tudo isso tem como base a capacidade de se comunicar bem, e o hábito da escrita tem um impacto positivo
-nessa área.
+relevância. O sucesso tem como base a capacidade de se comunicar bem, e o hábito da escrita a fortalece.
 
 ### Ensaios pessoais
 

@@ -25,13 +25,11 @@ O uso de LLMs (ChatGPT, Gemini e outras) no processo de escrita dos ensaios deve
 
 Sessões diárias de pelo menos 25 minutos de foco pleno no processo criativo de escrita e revisão. E aqui se fará valer as palavras de Graciliano Ramos:
 
-```
-“Deve-se escrever da mesma maneira como as lavadeiras lá de Alagoas fazem seu ofício. Elas começam com uma primeira lavada, molham a roupa suja na beira da lagoa ou do riacho, torcem o pano, molham-no novamente, voltam a torcer. Colocam o anil, ensaboam e torcem uma, duas vezes.
-
-Depois enxaguam, dão mais uma molhada, agora jogando a água com a mão. Batem o pano na laje ou na pedra limpa, e dão mais uma torcida e mais outra, torcem até não pingar do pano uma só gota.
-
-Somente depois de feito tudo isso é que elas dependuram a roupa lavada na corda ou no varal, para secar. Pois quem se mete a escrever devia fazer a mesma coisa. A palavra não foi feita para enfeitar, brilhar como ouro falso; a palavra foi feita para dizer."
-```
+> “Deve-se escrever da mesma maneira como as lavadeiras lá de Alagoas fazem seu ofício. Elas começam com uma primeira lavada, molham a roupa suja na beira da lagoa ou do riacho, torcem o pano, molham-no novamente, voltam a torcer. Colocam o anil, ensaboam e torcem uma, duas vezes.
+>
+> Depois enxaguam, dão mais uma molhada, agora jogando a água com a mão. Batem o pano na laje ou na pedra limpa, e dão mais uma torcida e mais outra, torcem até não pingar do pano uma só gota.
+>
+> Somente depois de feito tudo isso é que elas dependuram a roupa lavada na corda ou no varal, para secar. Pois quem se mete a escrever devia fazer a mesma coisa. A palavra não foi feita para enfeitar, brilhar como ouro falso; a palavra foi feita para dizer."
 
 ---
 #### Fontes 

@@ -41,8 +41,8 @@ escrita de ensaios pessoais. A ideia é aplicar o gênero de escrita acadêmica 
 interesse e imprimir as minhas reflexões sobre qualquer assunto, mas sem o rigor acadêmico e científico.
 
 O primeiro passo é a revisão bibliográfica com o objetivo de embasar ou até mesmo mudar a minha opinião sobre o assunto
-abordado nos artefatos gerados como resultado do processo. Mas sem limitar a sua aplicação na fase de pré-escrita: também aplicar
-durante, quando não seguro sobre as afirmações proferidas.
+abordado nos artefatos gerados como resultado do processo. Ela, porém, não se limita à fase de pré-escrita: também é 
+aplicada durante a escrita, quando não seguro das afirmações proferidas.
 
 Em seguida, deve-se usar como base o contexto absorvido combinado com o repertório pessoal para produzir um ensaio sobre o assunto
 em questão.

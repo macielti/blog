@@ -32,7 +32,7 @@ Sessões diárias de pelo menos 25 minutos de foco pleno no processo criativo de
 > Somente depois de feito tudo isso é que elas dependuram a roupa lavada na corda ou no varal, para secar. Pois quem se mete a escrever devia fazer a mesma coisa. A palavra não foi feita para enfeitar, brilhar como ouro falso; a palavra foi feita para dizer."
 
 ---
-#### Fontes 
+#### Referências 
 - VALIN, Tassiane. Sedentarismo cognitivo: impactos da IA na cognição humana. Pós PUCPR Digital, 17 set. 2025. Disponível em: [https://posdigital.pucpr.br/blog/cognicao-humana/](https://posdigital.pucpr.br/blog/cognicao-humana/). Acesso em: 24 out. 2026.
 - DICAS sobre como escrever um ensaio. [S.l.: s.n.], [s.d.]. Disponível em: [https://repositorio.ufsc.br/bitstream/handle/123456789/116800/DICAS_SOBRE_COMO_ESCREVER_UM_ENSAIO.pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/116800/DICAS_SOBRE_COMO_ESCREVER_UM_ENSAIO.pdf). Acesso em: 25 out. 2026.
 - CARNEIRO, Alexandre Soares. É possível ensinar o ensaio? Jornal da Unicamp, Campinas, 23 jan. 2024. Disponível em: [https://jornal.unicamp.br/artigo/2024/01/23/alexandre-soares-carneiro/e-possivel-ensinar-o-ensaio/](https://jornal.unicamp.br/artigo/2024/01/23/alexandre-soares-carneiro/e-possivel-ensinar-o-ensaio/). Acesso em: 25 out. 2026.

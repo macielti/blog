@@ -38,21 +38,21 @@ nessa área.
 
 Mirando em manter as minhas habilidades cognitivas exercitadas e em uso constante decidi aplicar na minha rotina a
 escrita de ensaios pessoais. A ideia é aplicar o gênero de escrita acadêmica no âmbito pessoal, escolher um tema de meu
-interesse e imprimir as minhas reflexões sobre qualquer assunto.
+interesse e imprimir as minhas reflexões sobre qualquer assunto, mas sem o rigor acadêmico e científico.
 
 O primeiro passo é a revisão bibliográfica com o objetivo de embasar ou até mesmo mudar a minha opinião sobre o assunto
 abordado nos artefatos gerados como resultado do processo. Mas não limitando-o a fase de pré-escrita, também aplicando-o
 durante a escrita, quando não seguro sobre as afirmações proferidas.
 
-Em seguida, usando como base o contexto absorvido combinado com o repertório pessoal produzir um ensaio sobre o assunto
+Em seguida, usando como base o contexto absorvido combinado com o repertório pessoal, produzir um ensaio sobre o assunto
 em questão.
 
 O uso de LLMs (ChatGPT, Gemini e outras) no processo de escrita dos ensaios deve ser limitado a zero. Aqui buscamos um
 espaço seguro e sem pressa para praticar e exercitar a habilidade de se comunicar e expressar ideias por meio da
 escrita.
 
-Sessões diárias de foco pleno no processo criativo de escrita e revisão. E aqui se fará valer
-as palavras de Graciliano Ramos sobre o processo de escrita:
+Enriquecimento da rotina com sessões diárias de foco pleno no processo criativo de escrita e revisão do que for produzido. 
+E aqui se fará valer as palavras de Graciliano Ramos sobre o processo:
 
 > “Deve-se escrever da mesma maneira como as lavadeiras lá de Alagoas fazem seu ofício. Elas começam com uma primeira
 > lavada, molham a roupa suja na beira da lagoa ou do riacho, torcem o pano, molham-no novamente, voltam a torcer. Colocam

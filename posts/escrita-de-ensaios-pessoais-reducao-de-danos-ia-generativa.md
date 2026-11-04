@@ -10,7 +10,7 @@ produtividade como resultado imediato, mas a dependência desse tipo de tecnolog
 negativos para as habilidades relacionadas à cognição humana.
 
 Com todas as evidências da possibilidade de chegar a um quadro de sedentarismo cognitivo por conta da dependência de
-Inteligência Artificial Generativa, a constante exposição diária a esse tipo de tecnologia no desenvolvimento das minhas
+inteligência artificial generativa, a constante exposição diária a esse tipo de tecnologia no desenvolvimento das minhas
 atividades laborais e depois de observar desconfiadamente sinais iniciais de declínio, decidi trazer pra minha rotina
 um conjunto de hábitos de autocuidado e desenvolvimento pessoal focados em exercitar habilidades cognitivas com
 frequência diária.
@@ -43,6 +43,9 @@ interesse e imprimir as minhas reflexões sobre qualquer assunto.
 O primeiro passo é a revisão bibliográfica com o objetivo de embasar ou até mesmo mudar a minha opinião sobre o assunto
 abordado nos artefatos gerados como resultado do processo. Mas não limitando-o a fase de pré-escrita, também aplicando-o
 durante a escrita, quando não seguro sobre as afirmações proferidas.
+
+Em seguida, usando como base o contexto absorvido combinado com o repertório pessoal produzir um ensaio sobre o assunto
+em questão.
 
 O uso de LLMs (ChatGPT, Gemini e outras) no processo de escrita dos ensaios deve ser limitado a zero. Aqui buscamos um
 espaço seguro e sem pressa para praticar e exercitar a habilidade de se comunicar e expressar ideias por meio da

@@ -10,7 +10,7 @@ produtividade como resultado imediato, mas a dependência desse tipo de tecnolog
 negativos para as habilidades relacionadas à cognição humana.
 
 Com todas as evidências da possibilidade de chegar a um quadro de sedentarismo cognitivo por conta da dependência de
-inteligência artificial generativa, a constante exposição diária a esse tipo de tecnologia no desenvolvimento das minhas
+inteligência artificial generativa, a constante exposição diária a esse tipo de tecnologia no desenvolvimento das 
 atividades laborais e depois de observar desconfiadamente sinais iniciais de declínio, decidi trazer pra minha rotina
 um conjunto de hábitos de autocuidado e desenvolvimento pessoal focados em exercitar habilidades cognitivas com
 frequência diária.

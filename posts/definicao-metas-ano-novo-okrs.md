@@ -38,8 +38,9 @@ Exemplo:
 > 3. 100% de presença e participação nos encontros semanais (comunidade online, agenda do clube de leitura) durante todo
      o ano de 2027.
 > 4. 100% de presença na agenda pessoal de tempo de foco diário de pelo menos uma sessão de 25 minutos dedicada a interagir
-     na comunidade online (buscar oportunidades de participar de threads, tirar dúvidas, fornecer feedback sobre bibliotecas e projetos)
-> 5. Receber pelos menos um convite para palestrar, em vez de ser quem submeteu o tema.
+     na comunidade online (buscar oportunidades de participar de threads, tirar dúvidas, fornecer feedback sobre bibliotecas e projetos) durante todo
+     o ano de 2027.
+> 5. Receber pelos menos um convite para palestrar, em vez de ser quem submeteu o tema, até o final de 2027.
 
 Os exemplos acima se baseiam na porcentagem da frequência na recorrência de algumas atividades. Aqui se aposta no
 desenvolvimento através da repetição (a prática leva à perfeição).

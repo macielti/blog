@@ -35,12 +35,10 @@ Exemplo:
      2027.
 > 2. Submeter pelo menos uma palestra (lightning talk ou proposta de atividades de workshop) para 100% dos eventos que
      acontecerem em São Paulo e região até o final de 2027.
-> 3. 100% de presença e participação nos encontros semanais (comunidade online, agenda do clube de leitura,
-     contribuições para discussões e respostas a dúvidas de pessoas em níveis iniciais dentro da comunidade) durante todo
+> 3. 100% de presença e participação nos encontros semanais (comunidade online, agenda do clube de leitura) durante todo
      o ano de 2027.
 > 4. 100% de presença na agenda pessoal de tempo de foco diário de pelo menos uma sessão de 25 minutos dedicada a interagir
-     na comunidade clojurians (buscar oportunidades de participar de threads, tirar dúvidas, fornecer feedback sobre
-     alguma lib)
+     na comunidade online (buscar oportunidades de participar de threads, tirar dúvidas, fornecer feedback sobre bibliotecas e projetos)
 > 5. Receber pelos menos um convite para palestrar, em vez de ser quem submeteu o tema.
 
 Os exemplos acima se baseiam na porcentagem da frequência na recorrência de algumas atividades. Aqui se aposta no
